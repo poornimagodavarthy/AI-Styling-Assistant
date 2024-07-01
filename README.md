@@ -19,7 +19,6 @@ You can access our research paper [here](https://drive.google.com/file/d/1AV8GdZ
 ## Requirements
 
 - Python 3.x
-- Dependencies listed in `requirements.txt`
 
 ## Clone Repository
 
