@@ -21,10 +21,8 @@ You can access our research paper [here](https://drive.google.com/file/d/1AV8GdZ
 - Python 3.x
 - Dependencies listed in `requirements.txt`
 
-## Installation
-
-1. **Clone the repository:**
+## Clone Repository
 
    ```bash
-   git clone https://github.com/yourusername/fashion-recommendation.git
+   git clone https://github.com/poornimagodavarthy/AI-Styling-Assistant.git
    cd fashion-recommendation
