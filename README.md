@@ -1,4 +1,4 @@
-# Fashion Recommendation System
+# AI Fashion Recommendation System
 by Poornima Godavarthy, Katy Hosokawa, Nidhi Raviprasad, and Ananya Thapar
 
 ## Overview
